@@ -17,6 +17,8 @@ Test: test_seg.py, test_fusion.py;
 
 Train: train.py
 
+The trained model can be downloaded at https://drive.google.com/file/d/1ysBohJp7HjdIDzAGeXaP_c-oYnhL5ubY/view?usp=sharing
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 Requirements:
